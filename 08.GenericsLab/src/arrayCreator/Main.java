@@ -14,7 +14,7 @@ public class Main {
         System.out.println(Arrays.toString(stringArr));
         System.out.println(Arrays.toString(intArr));
 
-        System.out.println(String.join(",", yetAnotherStringArr));
+        System.out.println(String.join(", ", yetAnotherStringArr));
         System.out.println(Arrays.toString(yetAnotherIntArr));
     }
 }
